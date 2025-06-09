@@ -1,0 +1,11 @@
+torch==2.6.0
+transformers==4.44.2
+datasets==2.21.0
+huggingface-hub==0.28.1
+scikit-learn==1.6.1
+numpy==2.0.2
+pandas==2.2.2
+packaging==24.2
+requests==2.32.3
+fsspec==2024.6.1
+pyarrow==17.0.0
